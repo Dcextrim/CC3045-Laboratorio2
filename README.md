@@ -12,6 +12,3 @@ Este repositorio contiene el desarrollo del Laboratorio 2 del curso CC3045 - Int
 
 ### Contenido
 - `lab2-ia.ipynb`: Notebook principal con la implementación del laboratorio
-
-### Instrucciones
-Para ejecutar el notebook, asegúrate de tener instaladas las dependencias necesarias y abre el archivo `lab2-ia.ipynb` en Jupyter Notebook o JupyterLab.
